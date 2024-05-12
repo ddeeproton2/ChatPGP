@@ -41,3 +41,5 @@ Optional fonctionality
 - A vocal message is aviable. But, nothing is crypted there with PGP.
 
 - You can add your video stream, on the top of the chat, if you uncomment and configure the tag <video ...></video> in "index.php" to use your stream server.
+
+The stream server is aviable in the folder "nginx-1.7.11.3-Gryphon-RTMP-Server"

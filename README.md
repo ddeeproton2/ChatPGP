@@ -76,7 +76,7 @@ To make this chat aviable between mobiles, without computer, you can use tor ser
 
 Install Termux on Android, and then the servers : apache2, mysqld, node, tor. And send the tor adress to your friends.
 
-To start, you need Ubuntu on your Termux :
+To start, you will need Ubuntu. Start Termux and add theses commands :
 ```bash
 pkg update
 pkg install proot-distro

@@ -74,24 +74,31 @@ To make this chat aviable between mobiles, you can use tor server.
 
 Install Termux on Android, and then the servers : apache2, mysqld, node, tor, and talk with your friends :)
 
+To start, you need Ubuntu on your Termux :
 ```bash
 pkg update
 pkg install proot-distro
 proot-distro list
 proot-distro install ubuntu-lts
 proot-distro login ubuntu-lts
-apt update -y && apt upgrade -y && apt install xfce4
+apt update -y && apt upgrade -y && 
+```
+
+To start Ubuntu on the next restart of termux
+
+```bash
+proot-distro login ubuntu-lts
+```
+
+To install a desktop
+
+```bash
+proot-distro login ubuntu-lts
+apt install xfce4
 service dbus start
 termux-x11 :1 -xstartup "dbus-launch --exit-with-session xcfe4-session"
 
 echo Start or install now "Termux:X11"
 ```
-This command will download and install Ubuntu on your phone
 
-Then you can go into your destktop with "Termux:X11" Android Application if you want to install apache2, mysqld, node, tor, with "apt install ..."
-
-or stop here to continue only with command prompts without desktop
-
-```bash
-proot-distro login ubuntu-lts
-```
+and then ask to ChatGPT or other AI how to install apache2 (with SSL), mysqld, node and tor :)

@@ -18,7 +18,7 @@ Configure MySQL in "chatPGP-PHP-MySQL/ajax.php"
 Create a MySQL Database, with the name specified into "chatPGP-PHP-MySQL/ajax.php" (default "tchat1")
 ___________________
 
-How it works
+How it works ?
 
 All SQL tables will be created on the fly. if the database is well created.
 

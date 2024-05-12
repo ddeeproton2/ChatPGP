@@ -23,6 +23,7 @@ Configure the NodeJS server in "chatPGP-NodeJS/!start.bat"
 ```bash
 node app.js --https-port 13443 --http-port 13080 --ssl-key SSL/private-key.pem --ssl-cert SSL/certificate.pem --ssl-ca SSL/ca.pem
 ```
+Erase and create new certificates before go in public ;)
 
 Configure MySQL connexion to the server in "chatPGP-PHP-MySQL/ajax.php"
 

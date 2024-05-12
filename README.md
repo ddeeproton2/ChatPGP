@@ -61,7 +61,7 @@ The merging of NodeJS and PHP MySQL is done with JQuery in "chatPGP-PHP-MySQL/js
 
 - A vocal message is aviable. But not protected with PGP. 
 
-- You can add your video stream, on the top of the chat, if you uncomment and configure the tag <video ...></video> in "index.php" to use your stream server.
+- You can add your video stream, on the top of the chat, if you uncomment and configure the tag <video></video> in "index.php" to use your stream server.
 
 The stream server is aviable in the folder "nginx-1.7.11.3-Gryphon-RTMP-Server"
 
@@ -72,9 +72,9 @@ Then you can stream to it with OBS Studio https://obsproject.com
 
 ## Android - install Termux
 
-To make this chat aviable between mobiles, you can use tor server. 
+To make this chat aviable between mobiles, without computer, you can use tor server. 
 
-Install Termux on Android, and then the servers : apache2, mysqld, node, tor, and chat your friends.
+Install Termux on Android, and then the servers : apache2, mysqld, node, tor. And send the tor adress to your friends.
 
 To start, you need Ubuntu on your Termux :
 ```bash

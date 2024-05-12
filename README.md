@@ -3,8 +3,7 @@
  
  This project is not ended. (Some buttons are here, but dosen't work).
  
-________________
-
+ 
 # Installation
 
 - A web server "PHP" with "MySQL"
@@ -20,8 +19,6 @@ Configure MySQL connexion to the server in "chatPGP-PHP-MySQL/ajax.php"
 Create a MySQL Database from your phpmyadmin, with the name specified into "chatPGP-PHP-MySQL/ajax.php" (default "tchat1")
 
 Put the folder in a public folder chatPGP-PHP-MySQL and rename it as you want to request it from the webbrowser
-
-___________________
 
 # How it works ?
 
@@ -39,7 +36,6 @@ PHP and MySQL server will manage the data.
 
 The merging of NodeJS and PHP MySQL is done with JQuery in "chatPGP-PHP-MySQL/js/CHAT.js"
 
-________________
 
 # Optional fonctionality 
 
@@ -51,7 +47,6 @@ The stream server is aviable in the folder "nginx-1.7.11.3-Gryphon-RTMP-Server"
 
 The you can stream to it with OBS Studio https://obsproject.com
 
-______________
 
 # For mobile phones
 

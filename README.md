@@ -57,4 +57,4 @@ To make this chat aviable betwwen mobiles, you can use tor server.
 
 Install Termux, and then the servers : apache2, mysqld, node, tor
 
-and talk with your friends :)
+Configure server and talk with your friends :)

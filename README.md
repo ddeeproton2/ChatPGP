@@ -6,6 +6,8 @@
  
 # Installation
 
+install :
+
 - A web server "PHP" with "MySQL"
 
 - A "NodeJS" server

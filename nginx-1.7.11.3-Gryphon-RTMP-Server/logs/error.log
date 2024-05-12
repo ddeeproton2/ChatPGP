@@ -1,0 +1,206 @@
+2022/06/01 19:14:40 [notice] 11212#1828: sockinit() attempting to access sockapi
+2022/06/01 19:14:40 [notice] 11212#1828: Access to sockapi succeded!
+2022/06/01 19:14:40 [notice] 11212#1828: using sockapi from "4;84;"
+2022/06/01 19:14:41 [notice] 10884#7488: sockinit() attempting to access sockapi
+2022/06/01 19:14:41 [notice] 10884#7488: Access to sockapi succeded!
+2022/06/01 19:14:41 [notice] 10884#7488: using sockapi from "4;8;"
+2022/06/01 20:05:38 [notice] 5876#1244: signal process started (stop)
+2022/06/02 03:32:05 [notice] 9332#6940: signal process started (stop)
+2022/06/02 03:32:05 [error] 9332#6940: CreateFile() "C:\A effacer\nginx 1.7.11.3 Gryphon/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/06/02 09:43:09 [notice] 3180#5564: sockinit() attempting to access sockapi
+2022/06/02 09:43:09 [notice] 3180#5564: Access to sockapi succeded!
+2022/06/02 09:43:09 [notice] 3180#5564: using sockapi from "4;148;"
+2022/06/02 09:43:10 [notice] 7228#5780: sockinit() attempting to access sockapi
+2022/06/02 09:43:10 [notice] 7228#5780: Access to sockapi succeded!
+2022/06/02 09:43:10 [notice] 7228#5780: using sockapi from "4;8;"
+2022/06/02 17:25:13 [notice] 8464#7512: signal process started (stop)
+2022/06/05 03:52:56 [emerg] 8612#13104: CreateFile() "C:\Share\Softs\!Multimédias\OBS Studio\Serveur pour OBS\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/06/05 03:54:00 [emerg] 7036#4832: CreateFile() "C:\Share\Softs\!Multimédias\OBS Studio\Serveur pour OBS\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/06/05 03:54:03 [emerg] 11856#10612: CreateFile() "C:\Share\Softs\!Multimédias\OBS Studio\Serveur pour OBS\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/06/05 03:56:15 [emerg] 5064#13864: CreateFile() "C:\Share\Softs\!Multimédias\OBS Studio\Serveur pour OBS\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/06/05 03:56:38 [emerg] 10780#2320: CreateFile() "C:\Share\Softs\!Multimédias\OBS Studio\Serveur pour OBS\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/06/05 03:57:55 [emerg] 8136#2124: CreateFile() "C:\Share\Softs\!Multimédias\OBS Studio\Serveur pour OBS\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/06/05 03:59:12 [emerg] 1152#12688: CreateFile() "C:\Share\Softs\!Multimédias\OBS Studio\Serveur pour OBS\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/06/05 03:59:50 [emerg] 3448#11228: CreateFile() "C:\Share\Softs\!Multimédias\OBS Studio\Serveur pour OBS\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/06/05 04:00:23 [emerg] 12484#11132: CreateFile() "C:\Share\Softs\!Multimédias\OBS Studio\Serveur pour OBS\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/06/05 04:01:33 [emerg] 7836#2536: CreateFile() "C:\Share\Softs\!Multimédias\OBS Studio\Serveur pour OBS\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/06/05 04:02:25 [emerg] 10056#13616: CreateFile() "C:\Share\Softs\!Multimédias\OBS Studio\Serveur pour OBS\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/06/05 04:02:38 [emerg] 11132#12484: CreateFile() "C:\Share\Softs\!Multimédias\OBS Studio\Serveur pour OBS\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/06/05 04:03:07 [emerg] 12832#8752: CreateFile() "C:\Share\Softs\!Multimédias\OBS Studio\Serveur pour OBS\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/06/05 04:03:40 [emerg] 436#12968: CreateFile() "C:\Share\Softs\!Multimédias\OBS Studio\Serveur pour OBS\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/06/05 04:04:15 [emerg] 3060#14016: CreateFile() "C:\Share\Softs\!Multimédias\OBS Studio\Serveur pour OBS\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/06/05 04:05:18 [notice] 12076#8200: sockinit() attempting to access sockapi
+2022/06/05 04:05:18 [notice] 12076#8200: Access to sockapi succeded!
+2022/06/05 04:05:18 [notice] 12076#8200: using sockapi from "4;140;"
+2022/06/05 04:05:19 [notice] 5132#5976: sockinit() attempting to access sockapi
+2022/06/05 04:05:19 [notice] 5132#5976: Access to sockapi succeded!
+2022/06/05 04:05:19 [notice] 5132#5976: using sockapi from "4;8;"
+2022/06/23 18:52:29 [emerg] 1424#2736: the same path name "C:/nginx 1.7.11.3 Gryphon - RTMP Server/html/hls" used in C:\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf:47 and in C:\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf:47
+2022/06/23 18:53:01 [emerg] 17956#9384: the same path name "C:/nginx 1.7.11.3 Gryphon - RTMP Server/html/hls" used in C:\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf:47 and in C:\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf:47
+2022/06/23 18:53:49 [notice] 10712#9580: sockinit() attempting to access sockapi
+2022/06/23 18:53:49 [notice] 10712#9580: Access to sockapi succeded!
+2022/06/23 18:53:49 [notice] 10712#9580: using sockapi from "4;140;"
+2022/06/23 18:53:49 [notice] 6408#9852: sockinit() attempting to access sockapi
+2022/06/23 18:53:49 [notice] 6408#9852: Access to sockapi succeded!
+2022/06/23 18:53:49 [notice] 6408#9852: using sockapi from "4;8;"
+2022/06/23 19:19:58 [error] 6408#13172: *90 CreateFile() "C:/nginx 1.7.11.3 Gryphon - RTMP Server/html/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:48080"
+2022/06/23 19:19:58 [error] 10712#4960: *91 CreateFile() "C:/nginx 1.7.11.3 Gryphon - RTMP Server/html/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.0", host: "127.0.0.1:48080"
+2022/06/23 19:19:58 [error] 6408#13172: *92 CreateFile() "C:/nginx 1.7.11.3 Gryphon - RTMP Server/html/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:48080"
+2022/06/23 19:19:58 [error] 6408#13172: *93 CreateFile() "C:/nginx 1.7.11.3 Gryphon - RTMP Server/html/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.0", host: "127.0.0.1:48080"
+2022/06/23 19:20:00 [error] 6408#13172: *94 CreateFile() "C:/nginx 1.7.11.3 Gryphon - RTMP Server/html/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:48080"
+2022/06/23 19:20:00 [error] 6408#13172: *95 CreateFile() "C:/nginx 1.7.11.3 Gryphon - RTMP Server/html/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.0", host: "127.0.0.1:48080"
+2022/06/23 19:20:03 [error] 6408#13172: *96 CreateFile() "C:/nginx 1.7.11.3 Gryphon - RTMP Server/html/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:48080"
+2022/06/23 19:20:03 [error] 10712#4960: *97 CreateFile() "C:/nginx 1.7.11.3 Gryphon - RTMP Server/html/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.0", host: "127.0.0.1:48080"
+2022/06/23 19:20:06 [error] 6408#13172: *98 CreateFile() "C:/nginx 1.7.11.3 Gryphon - RTMP Server/html/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:48080"
+2022/06/23 19:20:06 [error] 10712#4960: *99 CreateFile() "C:/nginx 1.7.11.3 Gryphon - RTMP Server/html/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.0", host: "127.0.0.1:48080"
+2022/06/23 19:20:10 [error] 6408#13172: *100 CreateFile() "C:/nginx 1.7.11.3 Gryphon - RTMP Server/html/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:48080"
+2022/06/23 19:20:10 [error] 6408#13172: *101 CreateFile() "C:/nginx 1.7.11.3 Gryphon - RTMP Server/html/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.0", host: "127.0.0.1:48080"
+2022/06/23 19:20:13 [error] 6408#13172: *102 CreateFile() "C:/nginx 1.7.11.3 Gryphon - RTMP Server/html/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:48080"
+2022/06/23 19:20:13 [error] 6408#13172: *103 CreateFile() "C:/nginx 1.7.11.3 Gryphon - RTMP Server/html/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.0", host: "127.0.0.1:48080"
+2022/06/23 19:20:16 [error] 6408#13172: *104 CreateFile() "C:/nginx 1.7.11.3 Gryphon - RTMP Server/html/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:48080"
+2022/06/23 19:20:16 [error] 6408#13172: *105 CreateFile() "C:/nginx 1.7.11.3 Gryphon - RTMP Server/html/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.0", host: "127.0.0.1:48080"
+2022/06/23 19:20:19 [error] 6408#13172: *106 CreateFile() "C:/nginx 1.7.11.3 Gryphon - RTMP Server/html/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:48080"
+2022/06/23 19:20:19 [error] 10712#4960: *107 CreateFile() "C:/nginx 1.7.11.3 Gryphon - RTMP Server/html/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.0", host: "127.0.0.1:48080"
+2022/06/23 19:51:12 [error] 6408#13172: *131 CreateFile() "C:\nginx 1.7.11.3 Gryphon - RTMP Server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:48080", referrer: "http://127.0.0.1:48080/"
+2022/06/23 19:52:50 [error] 6408#13172: *132 CreateFile() "C:\nginx 1.7.11.3 Gryphon - RTMP Server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:48080", referrer: "http://127.0.0.1:48080/video.html"
+2022/06/23 19:58:29 [error] 6408#13172: *137 CreateFile() "C:\nginx 1.7.11.3 Gryphon - RTMP Server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:48080", referrer: "http://127.0.0.1:48080/video.html"
+2022/06/23 20:22:39 [error] 10712#4960: *149 CreateFile() "C:\nginx 1.7.11.3 Gryphon - RTMP Server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:48080", referrer: "http://127.0.0.1:48080/video.html"
+2022/06/23 20:23:33 [error] 10712#4960: *151 CreateFile() "C:\nginx 1.7.11.3 Gryphon - RTMP Server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:48080", referrer: "http://127.0.0.1:48080/"
+2022/06/23 20:38:20 [error] 6408#13172: *179 CreateFile() "C:\nginx 1.7.11.3 Gryphon - RTMP Server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:48080", referrer: "http://127.0.0.1:48080/video.html"
+2023/07/19 03:10:45 [notice] 13060#11392: sockinit() attempting to access sockapi
+2023/07/19 03:10:45 [notice] 13060#11392: Access to sockapi succeded!
+2023/07/19 03:10:45 [notice] 13060#11392: using sockapi from "4;80;"
+2023/07/19 03:10:46 [notice] 3264#3380: sockinit() attempting to access sockapi
+2023/07/19 03:10:46 [notice] 3264#3380: Access to sockapi succeded!
+2023/07/19 03:10:46 [notice] 3264#3380: using sockapi from "4;8;"
+2023/07/19 04:48:37 [notice] 13052#7864: signal process started (stop)
+2023/07/19 04:48:44 [notice] 4784#11076: sockinit() attempting to access sockapi
+2023/07/19 04:48:44 [notice] 4784#11076: Access to sockapi succeded!
+2023/07/19 04:48:44 [notice] 4784#11076: using sockapi from "4;144;"
+2023/07/19 04:48:45 [notice] 9576#11940: sockinit() attempting to access sockapi
+2023/07/19 04:48:45 [notice] 9576#11940: Access to sockapi succeded!
+2023/07/19 04:48:45 [notice] 9576#11940: using sockapi from "4;8;"
+2023/07/19 04:56:31 [notice] 2576#12036: signal process started (stop)
+2023/07/19 05:00:26 [notice] 5832#11628: sockinit() attempting to access sockapi
+2023/07/19 05:00:26 [notice] 5832#11628: Access to sockapi succeded!
+2023/07/19 05:00:26 [notice] 5832#11628: using sockapi from "4;56;"
+2023/07/19 05:00:26 [notice] 4780#12724: sockinit() attempting to access sockapi
+2023/07/19 05:00:26 [notice] 4780#12724: Access to sockapi succeded!
+2023/07/19 05:00:26 [notice] 4780#12724: using sockapi from "4;8;"
+2023/09/15 01:05:42 [notice] 2000#7164: sockinit() attempting to access sockapi
+2023/09/15 01:05:42 [notice] 2000#7164: Access to sockapi succeded!
+2023/09/15 01:05:42 [notice] 2000#7164: using sockapi from "4;112;"
+2023/09/15 01:05:43 [notice] 11524#12636: sockinit() attempting to access sockapi
+2023/09/15 01:05:43 [notice] 11524#12636: Access to sockapi succeded!
+2023/09/15 01:05:43 [notice] 11524#12636: using sockapi from "4;8;"
+2023/09/15 01:11:55 [notice] 13764#12696: signal process started (stop)
+2023/09/15 01:35:09 [emerg] 3176#5500: unknown directive "rtmp" in C:\installed\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf:19
+2023/09/15 02:19:02 [notice] 7384#4596: sockinit() attempting to access sockapi
+2023/09/15 02:19:02 [notice] 7384#4596: Access to sockapi succeded!
+2023/09/15 02:19:02 [notice] 7384#4596: using sockapi from "4;8;"
+2023/09/15 02:19:02 [notice] 3628#7372: sockinit() attempting to access sockapi
+2023/09/15 02:19:02 [notice] 3628#7372: Access to sockapi succeded!
+2023/09/15 02:19:02 [notice] 3628#7372: using sockapi from "4;8;"
+2023/09/28 19:42:47 [notice] 12260#11096: sockinit() attempting to access sockapi
+2023/09/28 19:42:47 [notice] 12260#11096: Access to sockapi succeded!
+2023/09/28 19:42:47 [notice] 12260#11096: using sockapi from "4;76;"
+2023/09/28 19:42:48 [notice] 11904#9928: sockinit() attempting to access sockapi
+2023/09/28 19:42:48 [notice] 11904#9928: Access to sockapi succeded!
+2023/09/28 19:42:48 [notice] 11904#9928: using sockapi from "4;8;"
+2023/10/09 22:47:28 [notice] 1584#12820: sockinit() attempting to access sockapi
+2023/10/09 22:47:28 [notice] 1584#12820: Access to sockapi succeded!
+2023/10/09 22:47:28 [notice] 1584#12820: using sockapi from "4;80;"
+2023/10/09 22:47:28 [notice] 2248#5092: sockinit() attempting to access sockapi
+2023/10/09 22:47:28 [notice] 2248#5092: Access to sockapi succeded!
+2023/10/09 22:47:28 [notice] 2248#5092: using sockapi from "4;8;"
+2023/10/10 01:34:24 [notice] 13320#2704: signal process started (stop)
+2023/10/15 13:44:46 [notice] 4912#768: sockinit() attempting to access sockapi
+2023/10/15 13:44:46 [notice] 4912#768: Access to sockapi succeded!
+2023/10/15 13:44:46 [notice] 4912#768: using sockapi from "4;84;"
+2023/10/15 13:44:48 [notice] 1424#8744: sockinit() attempting to access sockapi
+2023/10/15 13:44:48 [notice] 1424#8744: Access to sockapi succeded!
+2023/10/15 13:44:48 [notice] 1424#8744: using sockapi from "4;8;"
+2023/10/15 23:09:19 [notice] 11936#6180: signal process started (stop)
+2023/10/25 17:25:51 [notice] 13984#6280: sockinit() attempting to access sockapi
+2023/10/25 17:25:51 [notice] 13984#6280: Access to sockapi succeded!
+2023/10/25 17:25:51 [notice] 13984#6280: using sockapi from "4;72;"
+2023/10/25 17:25:53 [notice] 5552#6328: sockinit() attempting to access sockapi
+2023/10/25 17:25:53 [notice] 5552#6328: Access to sockapi succeded!
+2023/10/25 17:25:53 [notice] 5552#6328: using sockapi from "4;8;"
+2023/10/26 03:44:49 [notice] 8100#13176: signal process started (stop)
+2023/10/26 13:58:34 [notice] 820#12924: sockinit() attempting to access sockapi
+2023/10/26 13:58:34 [notice] 820#12924: Access to sockapi succeded!
+2023/10/26 13:58:34 [notice] 820#12924: using sockapi from "4;80;"
+2023/10/26 13:58:36 [notice] 12108#5544: sockinit() attempting to access sockapi
+2023/10/26 13:58:36 [notice] 12108#5544: Access to sockapi succeded!
+2023/10/26 13:58:36 [notice] 12108#5544: using sockapi from "4;8;"
+2023/10/26 14:08:23 [notice] 9508#10080: signal process started (stop)
+2023/10/26 14:08:45 [notice] 9072#13392: sockinit() attempting to access sockapi
+2023/10/26 14:08:45 [notice] 9072#13392: Access to sockapi succeded!
+2023/10/26 14:08:45 [notice] 9072#13392: using sockapi from "4;84;"
+2023/10/26 14:08:45 [notice] 1180#9188: sockinit() attempting to access sockapi
+2023/10/26 14:08:45 [notice] 1180#9188: Access to sockapi succeded!
+2023/10/26 14:08:45 [notice] 1180#9188: using sockapi from "4;8;"
+2023/10/26 14:14:15 [notice] 12316#10848: signal process started (stop)
+2023/10/26 14:14:36 [notice] 12916#14668: sockinit() attempting to access sockapi
+2023/10/26 14:14:36 [notice] 12916#14668: Access to sockapi succeded!
+2023/10/26 14:14:36 [notice] 12916#14668: using sockapi from "4;72;"
+2023/10/26 14:14:37 [notice] 9592#12716: sockinit() attempting to access sockapi
+2023/10/26 14:14:37 [notice] 9592#12716: Access to sockapi succeded!
+2023/10/26 14:14:37 [notice] 9592#12716: using sockapi from "4;8;"
+2023/10/30 02:13:07 [notice] 2892#10220: sockinit() attempting to access sockapi
+2023/10/30 02:13:07 [notice] 2892#10220: Access to sockapi succeded!
+2023/10/30 02:13:07 [notice] 2892#10220: using sockapi from "4;76;"
+2023/10/30 02:13:07 [notice] 7732#5136: sockinit() attempting to access sockapi
+2023/10/30 02:13:07 [notice] 7732#5136: Access to sockapi succeded!
+2023/10/30 02:13:07 [notice] 7732#5136: using sockapi from "4;8;"
+2023/10/30 04:09:44 [notice] 4040#2880: signal process started (stop)
+2023/10/31 11:16:03 [notice] 9368#5524: sockinit() attempting to access sockapi
+2023/10/31 11:16:03 [notice] 9368#5524: Access to sockapi succeded!
+2023/10/31 11:16:03 [notice] 9368#5524: using sockapi from "4;80;"
+2023/10/31 11:16:03 [notice] 12904#3424: sockinit() attempting to access sockapi
+2023/10/31 11:16:03 [notice] 12904#3424: Access to sockapi succeded!
+2023/10/31 11:16:03 [notice] 12904#3424: using sockapi from "4;8;"
+2023/11/03 22:26:45 [notice] 2340#17436: Fatal: wait for sockapi failed
+2023/11/11 11:19:17 [notice] 13300#11712: sockinit() attempting to access sockapi
+2023/11/11 11:19:17 [notice] 13300#11712: Access to sockapi succeded!
+2023/11/11 11:19:17 [notice] 13300#11712: using sockapi from "4;80;"
+2023/11/11 11:19:18 [notice] 11340#12188: sockinit() attempting to access sockapi
+2023/11/11 11:19:18 [notice] 11340#12188: Access to sockapi succeded!
+2023/11/11 11:19:18 [notice] 11340#12188: using sockapi from "4;8;"
+2023/11/16 15:40:18 [notice] 2544#6456: sockinit() attempting to access sockapi
+2023/11/16 15:40:18 [notice] 2544#6456: Access to sockapi succeded!
+2023/11/16 15:40:18 [notice] 2544#6456: using sockapi from "4;80;"
+2023/11/16 15:40:19 [notice] 5804#11836: sockinit() attempting to access sockapi
+2023/11/16 15:40:19 [notice] 5804#11836: Access to sockapi succeded!
+2023/11/16 15:40:19 [notice] 5804#11836: using sockapi from "4;8;"
+2023/11/20 16:06:07 [notice] 1432#13792: Fatal: wait for sockapi failed
+2023/11/20 18:09:53 [notice] 14192#7932: signal process started (stop)
+2023/11/20 18:10:00 [notice] 14244#3408: sockinit() attempting to access sockapi
+2023/11/20 18:10:00 [notice] 14244#3408: Access to sockapi succeded!
+2023/11/20 18:10:00 [notice] 14244#3408: using sockapi from "4;88;"
+2023/11/20 18:10:01 [notice] 13456#3696: sockinit() attempting to access sockapi
+2023/11/20 18:10:01 [notice] 13456#3696: Access to sockapi succeded!
+2023/11/20 18:10:01 [notice] 13456#3696: using sockapi from "4;8;"
+2023/11/22 13:05:06 [notice] 7096#7812: sockinit() attempting to access sockapi
+2023/11/22 13:05:06 [notice] 7096#7812: Access to sockapi succeded!
+2023/11/22 13:05:06 [notice] 7096#7812: using sockapi from "4;152;"
+2023/11/22 13:05:06 [notice] 10920#4116: sockinit() attempting to access sockapi
+2023/11/22 13:05:06 [notice] 10920#4116: Access to sockapi succeded!
+2023/11/22 13:05:06 [notice] 10920#4116: using sockapi from "4;8;"
+2023/11/22 15:40:23 [notice] 8720#7668: signal process started (stop)
+2023/12/04 11:50:54 [emerg] 12636#1736: CreateFile() "C:\Share\Softs\!Multimédias\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2023/12/04 11:53:41 [emerg] 13720#12968: CreateFile() "C:\Share\Softs\!Multimédias\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2023/12/04 11:54:11 [emerg] 12544#2796: CreateFile() "C:\Share\Softs\!Multimédias\nginx 1.7.11.3 Gryphon - RTMP Server/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2023/12/04 11:55:18 [notice] 8484#6732: sockinit() attempting to access sockapi
+2023/12/04 11:55:18 [notice] 8484#6732: Access to sockapi succeded!
+2023/12/04 11:55:18 [notice] 8484#6732: using sockapi from "4;88;"
+2023/12/04 11:55:19 [notice] 4436#4828: sockinit() attempting to access sockapi
+2023/12/04 11:55:19 [notice] 4436#4828: Access to sockapi succeded!
+2023/12/04 11:55:19 [notice] 4436#4828: using sockapi from "4;8;"
+2024/01/25 12:44:04 [notice] 14060#9940: sockinit() attempting to access sockapi
+2024/01/25 12:44:04 [notice] 14060#9940: Access to sockapi succeded!
+2024/01/25 12:44:04 [notice] 14060#9940: using sockapi from "4;8;"
+2024/01/25 12:44:05 [notice] 13724#15108: sockinit() attempting to access sockapi
+2024/01/25 12:44:05 [notice] 13724#15108: Access to sockapi succeded!
+2024/01/25 12:44:05 [notice] 13724#15108: using sockapi from "4;8;"

@@ -1,0 +1,367 @@
+127.0.0.1 [01/Jun/2022:19:27:41 +0200] PLAY "live" "test" "" - 388 7689904 "" "LNX 9,0,124,2" (33s)
+127.0.0.1 [01/Jun/2022:19:29:44 +0200] PLAY "live" "test" "" - 425 19558415 "" "LNX 9,0,124,2" (1m 41s)
+127.0.0.1 [01/Jun/2022:19:32:01 +0200] PLAY "live" "test" "" - 412 13588821 "" "LNX 9,0,124,2" (1m 47s)
+127.0.0.1 [01/Jun/2022:19:33:24 +0200] PUBLISH "live" "test" "" - 86223910 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (7m 21s)
+127.0.0.1 [01/Jun/2022:19:39:53 +0200] PUBLISH "live" "test" "" - 27400537 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (5m 31s)
+127.0.0.1 [01/Jun/2022:19:40:09 +0200] PLAY "live" "test" "" - 452 26721965 "" "LNX 9,0,124,2" (5m 38s)
+127.0.0.1 [01/Jun/2022:19:40:30 +0200] PLAY "live" "test" "" - 368 436 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 [01/Jun/2022:19:40:51 +0200] PLAY "live" "test" "" - 368 436 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 [01/Jun/2022:19:51:21 +0200] PLAY "live" "test" "" - 524 49028063 "" "LNX 9,0,124,2" (9m 51s)
+127.0.0.1 [01/Jun/2022:19:51:29 +0200] PUBLISH "live" "test" "" - 50381712 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (10m 9s)
+127.0.0.1 [01/Jun/2022:19:53:46 +0200] PLAY "live" "test" "" - 396 8585343 "" "LNX 9,0,124,2" (1m 44s)
+127.0.0.1 [01/Jun/2022:19:53:50 +0200] PUBLISH "live" "test" "" - 9533137 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1m 55s)
+127.0.0.1 [01/Jun/2022:20:05:07 +0200] PUBLISH "live" "test" "" - 54176102 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (10m 37s)
+127.0.0.1 [01/Jun/2022:20:05:23 +0200] PLAY "live" "test" "" - 540 53752549 "" "LNX 9,0,124,2" (10m 47s)
+127.0.0.1 [01/Jun/2022:20:05:44 +0200] PLAY "live" "test" "" - 368 436 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 - - [02/Jun/2022:09:43:54 +0200] "GET / HTTP/1.1" 200 834 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.162 Safari/537.36"
+127.0.0.1 - - [02/Jun/2022:10:15:04 +0200] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.162 Safari/537.36"
+127.0.0.1 [05/Jun/2022:04:07:14 +0200] PUBLISH "live" "178.196.33.120" "" - 33328954 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1m 48s)
+127.0.0.1 [05/Jun/2022:04:12:48 +0200] PLAY "live" "" "" - 345 542 "" "" (30s)
+127.0.0.1 [05/Jun/2022:04:14:21 +0200] PLAY "live" "test" "" - 369 436 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 [05/Jun/2022:04:15:27 +0200] PUBLISH "live" "178.196.33.120" "" - 116096883 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (6m 12s)
+127.0.0.1 [05/Jun/2022:04:17:18 +0200] PLAY "live" "" "" - 361 436 "" "LNX 9,0,124,2" (40s)
+127.0.0.1 [05/Jun/2022:04:17:28 +0200] PLAY "live" "" "" - 361 436 "" "LNX 9,0,124,2" (9s)
+127.0.0.1 [05/Jun/2022:04:17:48 +0200] PLAY "live" "" "" - 361 436 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 [05/Jun/2022:04:18:04 +0200] PLAY "live" "" "" - 361 436 "" "LNX 9,0,124,2" (15s)
+127.0.0.1 [05/Jun/2022:04:18:33 +0200] PLAY "live" "" "" - 361 436 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 [05/Jun/2022:04:18:40 +0200] PUBLISH "live" "178.196.33.120" "" - 37658329 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (2m 2s)
+127.0.0.1 [05/Jun/2022:04:18:54 +0200] PLAY "live" "" "" - 361 436 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 [05/Jun/2022:04:19:22 +0200] PLAY "live" "" "" - 361 436 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 [05/Jun/2022:04:19:38 +0200] PLAY "live" "" "" - 361 436 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 [05/Jun/2022:04:19:43 +0200] PLAY "live" "" "" - 361 436 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 [05/Jun/2022:04:19:52 +0200] PLAY "live" "test" "" - 381 3416146 "" "LNX 9,0,124,2" (11s)
+127.0.0.1 [05/Jun/2022:04:20:00 +0200] PLAY "live" "" "" - 361 436 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 [05/Jun/2022:04:20:18 +0200] PLAY "live" "" "" - 303 436 "" "" (18s)
+127.0.0.1 [05/Jun/2022:04:20:48 +0200] PLAY "live" "test" "" - 361 564632 "" "" (3s)
+127.0.0.1 [05/Jun/2022:04:31:30 +0200] PLAY "live" "test" "" - 2286 194554892 "" "" (10m 20s)
+127.0.0.1 [05/Jun/2022:04:32:20 +0200] PLAY "live" "test" "" - 349 542 "" "" (30s)
+127.0.0.1 [05/Jun/2022:04:38:56 +0200] PLAY "live" "test" "" - 1131 84860868 "" "" (5m 15s)
+127.0.0.1 [05/Jun/2022:04:40:14 +0200] PLAY "live" "test" "" - 363 560 "" "" (6m 32s)
+127.0.0.1 [05/Jun/2022:04:40:39 +0200] PLAY "live" "test" "" - 361 588298 "" "" (3s)
+127.0.0.1 [05/Jun/2022:04:41:19 +0200] PLAY "live" "test" "" - 307 436 "" "" (43s)
+127.0.0.1 [05/Jun/2022:04:41:53 +0200] PLAY "live" "test" "" - 349 542 "" "" (30s)
+127.0.0.1 [05/Jun/2022:04:43:05 +0200] PLAY "live" "test" "" - 349 542 "" "" (30s)
+127.0.0.1 [05/Jun/2022:04:43:13 +0200] PLAY "live" "test" "" - 349 1168020 "" "" (37s)
+127.0.0.1 [05/Jun/2022:04:44:09 +0200] PLAY "live" "test" "" - 361 590445 "" "" (3s)
+127.0.0.1 [05/Jun/2022:04:45:17 +0200] PLAY "live" "test" "" - 349 542 "" "" (30s)
+127.0.0.1 [05/Jun/2022:04:45:22 +0200] PLAY "live" "test" "" - 349 1287151 "" "" (34s)
+127.0.0.1 [05/Jun/2022:04:46:01 +0200] PLAY "live" "test" "" - 361 627884 "" "" (3s)
+127.0.0.1 [05/Jun/2022:04:46:53 +0200] PLAY "live" "test" "" - 349 542 "" "" (54s)
+127.0.0.1 [05/Jun/2022:04:47:39 +0200] PLAY "live" "test" "" - 369 436 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 [05/Jun/2022:04:47:39 +0200] PUBLISH "live" "test" "" - 534528069 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (28m 43s)
+127.0.0.1 [05/Jun/2022:04:48:20 +0200] PLAY "live" "test" "" - 361 750006 "" "" (3s)
+127.0.0.1 [05/Jun/2022:04:48:35 +0200] PLAY "live" "test" "" - 361 743945 "" "" (3s)
+127.0.0.1 [05/Jun/2022:04:49:32 +0200] PLAY "live" "test" "" - 349 542 "" "" (30s)
+127.0.0.1 [05/Jun/2022:04:51:11 +0200] PLAY "live" "test" "" - 636 9557534 "" "LNX 9,0,124,2" (3m 51s)
+127.0.0.1 [05/Jun/2022:04:51:11 +0200] PUBLISH "live" "test" "" - 20758865 409 "" "FMLE/3.0 (compatible; FMSc/1.0)" (3m 7s)
+127.0.0.1 [05/Jun/2022:04:51:15 +0200] PUBLISH "live" "test" "" - 1156231 547 "" "FMLE/3.0 (compatible; FMSc/1.0)" (2m 12s)
+127.0.0.1 [05/Jun/2022:04:51:47 +0200] PLAY "live" "test" "" - 361 605748 "" "" (2s)
+127.0.0.1 [05/Jun/2022:04:52:19 +0200] PLAY "live" "test" "" - 369 436 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 [05/Jun/2022:04:52:21 +0200] PLAY "live" "test" "" - 411 120543 "" "LNX 9,0,124,2" (1s)
+127.0.0.1 [05/Jun/2022:04:52:41 +0200] PLAY "live" "test" "" - 369 436 "" "LNX 9,0,124,2" (21s)
+127.0.0.1 [05/Jun/2022:04:53:11 +0200] PLAY "live" "test" "" - 492 10810948 "" "LNX 9,0,124,2" (30s)
+127.0.0.1 [05/Jun/2022:04:53:24 +0200] PLAY "live" "test" "" - 361 1557198 "" "" (6s)
+127.0.0.1 [05/Jun/2022:04:58:42 +0200] PLAY "live" "test" "" - 826 54292198 "" "" (4m 5s)
+127.0.0.1 [05/Jun/2022:05:01:09 +0200] PLAY "live" "test" "" - 466 15366987 "" "" (1m 43s)
+127.0.0.1 [05/Jun/2022:05:01:17 +0200] PLAY "live" "test" "" - 349 287234 "" "" (3s)
+127.0.0.1 [05/Jun/2022:05:01:53 +0200] PLAY "live" "test" "" - 349 542 "" "" (40s)
+127.0.0.1 [05/Jun/2022:05:04:16 +0200] PLAY "live" "test" "" - 441 12983458 "" "" (2m 13s)
+127.0.0.1 [05/Jun/2022:05:04:42 +0200] PUBLISH "live" "test" "" - 214956025 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (13m 10s)
+127.0.0.1 [05/Jun/2022:17:06:26 +0200] PLAY "live" "test" "" - 369 436 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 [05/Jun/2022:17:06:36 +0200] PLAY "live" "test" "" - 369 436 "" "LNX 9,0,124,2" (9s)
+127.0.0.1 [05/Jun/2022:17:06:58 +0200] PLAY "live" "test" "" - 369 436 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 [05/Jun/2022:17:07:19 +0200] PLAY "live" "test" "" - 369 436 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 [05/Jun/2022:17:08:13 +0200] PLAY "live" "test" "" - 369 436 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 [05/Jun/2022:17:08:17 +0200] PLAY "live" "test" "" - 369 436 "" "LNX 9,0,124,2" (24s)
+192.168.1.101 [05/Jun/2022:22:24:49 +0200] PLAY "live" "" "" - 364 436 "" "LNX 9,0,124,2" (19s)
+192.168.1.101 [05/Jun/2022:22:25:14 +0200] PLAY "live" "" "" - 364 436 "" "LNX 9,0,124,2" (20s)
+192.168.1.101 [05/Jun/2022:22:25:50 +0200] PLAY "live" "test" "" - 372 436 "" "LNX 9,0,124,2" (56s)
+127.0.0.1 [05/Jun/2022:23:40:31 +0200] PUBLISH "live" "test" "" - 587163562 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1h 16m 39s)
+192.168.138.1 [05/Jun/2022:23:40:31 +0200] PLAY "live" "test" "" - 2172 565669711 "" "LNX 9,0,124,2" (1h 14m 3s)
+127.0.0.1 [23/Jun/2022:18:57:58 +0200] PLAY "live" "test" "" - 369 436 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 [23/Jun/2022:18:58:02 +0200] PLAY "live" "test" "" - 369 436 "" "LNX 9,0,124,2" (3s)
+127.0.0.1 [23/Jun/2022:19:05:37 +0200] PLAY "live" "test" "" - 369 436 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 [23/Jun/2022:19:05:50 +0200] PLAY "live" "test" "" - 369 436 "" "LNX 9,0,124,2" (13s)
+127.0.0.1 [23/Jun/2022:19:06:39 +0200] PLAY "hls" "test" "" - 387 5078483 "" "LNX 9,0,124,2" (30s)
+127.0.0.1 [23/Jun/2022:19:10:44 +0200] PLAY "hls" "stream.m3u8" "" - 381 436 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 [23/Jun/2022:19:11:06 +0200] PLAY "hls" "stream.m3u8" "" - 381 436 "" "LNX 9,0,124,2" (20s)
+127.0.0.1 - - [23/Jun/2022:19:19:58 +0200] "GET /hls/test.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:19:58 +0200] "GET /hls/test.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:19:58 +0200] "GET /hls/test.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:19:58 +0200] "GET /hls/test.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:20:00 +0200] "GET /hls/test.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:20:00 +0200] "GET /hls/test.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:20:03 +0200] "GET /hls/test.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:20:03 +0200] "GET /hls/test.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:20:06 +0200] "GET /hls/test.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:20:06 +0200] "GET /hls/test.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:20:10 +0200] "GET /hls/test.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:20:10 +0200] "GET /hls/test.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:20:13 +0200] "GET /hls/test.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:20:13 +0200] "GET /hls/test.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:20:16 +0200] "GET /hls/test.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:20:16 +0200] "GET /hls/test.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:20:19 +0200] "GET /hls/test.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:20:19 +0200] "GET /hls/test.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:20:21 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 129 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:20:21 +0200] "GET /hls1/test-58.ts HTTP/1.1" 200 2841432 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:20:21 +0200] "GET /hls1/test-59.ts HTTP/1.1" 200 2874332 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:20:37 +0200] "GET /hls1/test.m3u8 HTTP/1.0" 200 129 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:20:37 +0200] "GET /hls1/test-60.ts HTTP/1.1" 200 2926596 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:20:41 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 200 129 "-" "(Windows NT 10.0; WOW64) PotPlayer/22.4.20"
+127.0.0.1 - - [23/Jun/2022:19:20:41 +0200] "GET /hls1/test.m3u8 HTTP/1.0" 200 129 "-" ""
+127.0.0.1 - - [23/Jun/2022:19:20:41 +0200] "GET /hls1/test.m3u8 HTTP/1.0" 200 129 "-" "(Windows NT 10.0; WOW64) PotPlayer/22.4.20"
+127.0.0.1 - - [23/Jun/2022:19:20:41 +0200] "GET /hls1/test.m3u8 HTTP/1.0" 200 129 "-" ""
+127.0.0.1 - - [23/Jun/2022:19:20:41 +0200] "GET /hls1/test.m3u8 HTTP/1.0" 200 129 "-" "(Windows NT 10.0; WOW64) PotPlayer/22.4.20"
+127.0.0.1 - - [23/Jun/2022:19:20:50 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 129 "-" "(Windows NT 10.0; WOW64) PotPlayer/22.4.20"
+127.0.0.1 - - [23/Jun/2022:19:20:50 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 129 "-" "(Windows NT 10.0; WOW64) PotPlayer/22.4.20"
+127.0.0.1 - - [23/Jun/2022:19:20:50 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 129 "-" "(Windows NT 10.0; WOW64) PotPlayer/22.4.20"
+127.0.0.1 - - [23/Jun/2022:19:20:51 +0200] "GET /hls1/test-59.ts HTTP/1.1" 206 2874332 "-" "Lavf/58.76.100"
+127.0.0.1 - - [23/Jun/2022:19:20:51 +0200] "GET /hls1/test-60.ts HTTP/1.1" 206 2926596 "-" "Lavf/58.76.100"
+127.0.0.1 - - [23/Jun/2022:19:20:53 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 129 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:20:54 +0200] "GET /hls1/test-61.ts HTTP/1.1" 200 2758712 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:21:08 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 129 "-" "Lavf/58.76.100"
+127.0.0.1 - - [23/Jun/2022:19:22:09 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 129 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:22:09 +0200] "GET /hls1/test-65.ts HTTP/1.1" 200 2826204 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:22:09 +0200] "GET /hls1/test-66.ts HTTP/1.1" 200 2879784 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:51:12 +0200] "GET / HTTP/1.1" 200 834 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:19:51:12 +0200] "GET /favicon.ico HTTP/1.1" 404 179 "http://127.0.0.1:48080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:19:51:20 +0200] "GET /video.html HTTP/1.1" 200 548 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:19:52:46 +0200] "GET /video.html HTTP/1.1" 200 548 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.0.11014 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:19:52:50 +0200] "GET /favicon.ico HTTP/1.1" 404 581 "http://127.0.0.1:48080/video.html" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.0.11014 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:19:54:09 +0200] "GET /video.html HTTP/1.1" 200 724 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.0.11014 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:19:54:35 +0200] "GET /video.html HTTP/1.1" 200 718 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.0.11014 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:19:54:50 +0200] "GET /video.html HTTP/1.1" 200 701 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.0.11014 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:19:55:54 +0200] "GET /video.html HTTP/1.1" 200 714 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.0.11014 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:19:56:46 +0200] "GET /video.html HTTP/1.1" 200 714 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:19:56:48 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 132 "http://127.0.0.1:48080/video.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:19:57:15 +0200] "GET /video.html HTTP/1.1" 200 743 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:19:57:26 +0200] "GET /video.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:19:58:29 +0200] "GET /video.html HTTP/1.1" 200 731 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:19:58:29 +0200] "GET /favicon.ico HTTP/1.1" 404 179 "http://127.0.0.1:48080/video.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:19:58:34 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 132 "http://127.0.0.1:48080/video.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:19:58:57 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 132 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:58:57 +0200] "GET /hls1/test-203.ts HTTP/1.1" 200 2209564 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:58:57 +0200] "GET /hls1/test-204.ts HTTP/1.1" 200 2174972 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:59:13 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 132 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:59:13 +0200] "GET /hls1/test-205.ts HTTP/1.1" 200 1947680 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:19:59:29 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 132 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 [23/Jun/2022:20:20:52 +0200] PUBLISH "hls" "test" "" - 544249155 409 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1h 16m 16s)
+127.0.0.1 - - [23/Jun/2022:20:21:43 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 126 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:20:21:44 +0200] "GET /hls1/test-3.ts HTTP/1.1" 200 2271416 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:20:21:44 +0200] "GET /hls1/test-4.ts HTTP/1.1" 200 3133020 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:20:22:00 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 126 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:20:22:00 +0200] "GET /hls1/test-5.ts HTTP/1.1" 200 2360528 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:20:22:27 +0200] "GET /video.html HTTP/1.1" 200 731 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.0.11014 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:22:38 +0200] "GET /video.html HTTP/1.1" 200 731 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
+127.0.0.1 - - [23/Jun/2022:20:22:39 +0200] "GET /favicon.ico HTTP/1.1" 404 179 "http://127.0.0.1:48080/video.html" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
+127.0.0.1 - - [23/Jun/2022:20:23:30 +0200] "GET / HTTP/1.1" 200 834 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:23:33 +0200] "GET /favicon.ico HTTP/1.1" 404 581 "http://127.0.0.1:48080/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:23:39 +0200] "GET /video.html HTTP/1.1" 200 731 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:23:47 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 129 "http://127.0.0.1:48080/video.html" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:25:09 +0200] "GET /video.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:25:15 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 129 "http://127.0.0.1:48080/video.html" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:25:37 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 200 129 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:27:59 +0200] "GET /video.html HTTP/1.1" 200 732 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:28:24 +0200] "GET /video.html HTTP/1.1" 200 743 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:28:35 +0200] "GET /video.html HTTP/1.1" 200 743 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
+127.0.0.1 - - [23/Jun/2022:20:29:45 +0200] "GET /video.html HTTP/1.1" 200 731 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.0.11014 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:32:47 +0200] "GET /video.html HTTP/1.1" 200 746 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:32:55 +0200] "GET /video.html HTTP/1.1" 200 746 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
+127.0.0.1 - - [23/Jun/2022:20:33:00 +0200] "GET /video.html HTTP/1.1" 200 746 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:20:33:16 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 129 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:20:33:16 +0200] "GET /hls1/test-38.ts HTTP/1.1" 200 1873608 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:20:33:16 +0200] "GET /hls1/test-39.ts HTTP/1.1" 200 1651580 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:20:35:31 +0200] "GET /video.html HTTP/1.1" 200 860 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
+127.0.0.1 - - [23/Jun/2022:20:35:32 +0200] "GET /video.html HTTP/1.1" 200 860 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
+127.0.0.1 - - [23/Jun/2022:20:35:32 +0200] "GET /video.html HTTP/1.1" 200 860 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
+127.0.0.1 - - [23/Jun/2022:20:35:35 +0200] "GET /video.html HTTP/1.1" 200 860 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:20:35:38 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 129 "http://127.0.0.1:48080/video.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:20:35:52 +0200] "GET /video.html HTTP/1.1" 200 860 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:35:56 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 129 "http://127.0.0.1:48080/video.html" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:36:40 +0200] "GET /video.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 [23/Jun/2022:20:37:16 +0200] PUBLISH "hls" "test" "" - 115070224 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (17m 0s)
+127.0.0.1 - - [23/Jun/2022:20:37:38 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 129 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:20:37:38 +0200] "GET /hls1/test-53.ts HTTP/1.1" 200 1827548 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:20:37:38 +0200] "GET /hls1/test-54.ts HTTP/1.1" 200 2117444 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:20:37:48 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 129 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:20:37:48 +0200] "GET /hls1/test-53.ts HTTP/1.1" 200 1827548 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:20:37:48 +0200] "GET /hls1/test-54.ts HTTP/1.1" 200 2117444 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:20:38:07 +0200] "GET /video.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:38:10 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 150 "http://127.0.0.1:48080/video.html" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:38:20 +0200] "GET /video.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:20:38:20 +0200] "GET /favicon.ico HTTP/1.1" 404 179 "http://127.0.0.1:48080/video.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:20:38:21 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 150 "http://127.0.0.1:48080/video.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:20:38:25 +0200] "GET /video.html HTTP/1.1" 200 860 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.0.11014 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:38:31 +0200] "GET /video.html HTTP/1.1" 200 860 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
+127.0.0.1 - - [23/Jun/2022:20:38:31 +0200] "GET /video.html HTTP/1.1" 200 860 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
+127.0.0.1 - - [23/Jun/2022:20:38:32 +0200] "GET /video.html HTTP/1.1" 200 860 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
+127.0.0.1 - - [23/Jun/2022:20:38:51 +0200] "GET /video.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
+127.0.0.1 - - [23/Jun/2022:20:40:27 +0200] "GET /video.html HTTP/1.1" 200 855 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:20:40:37 +0200] "GET /video.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:20:40:42 +0200] "GET /video.html HTTP/1.1" 200 855 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:40:48 +0200] "GET /video.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:40:56 +0200] "GET /video.html HTTP/1.1" 200 855 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.0.11014 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:41:27 +0200] "GET /video.html HTTP/1.1" 200 865 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:20:41:35 +0200] "GET /video.html HTTP/1.1" 200 865 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:41:45 +0200] "GET /video.html HTTP/1.1" 200 865 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.0.11014 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:41:54 +0200] "GET /video.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:43:16 +0200] "GET /video.html HTTP/1.1" 200 850 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:20:43:20 +0200] "GET /video.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:20:43:26 +0200] "GET /video.html HTTP/1.1" 200 850 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.0.11014 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:43:31 +0200] "GET /video.html HTTP/1.1" 200 850 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
+127.0.0.1 - - [23/Jun/2022:20:43:32 +0200] "GET /video.html HTTP/1.1" 200 850 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
+127.0.0.1 - - [23/Jun/2022:20:43:54 +0200] "GET /video.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:20:43:54 +0200] "GET /video.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.0.11014 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:44:33 +0200] "GET /video.html HTTP/1.1" 200 850 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.0.11014 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:44:38 +0200] "GET /video.html HTTP/1.1" 200 850 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:20:44:54 +0200] "GET /video.html HTTP/1.1" 200 850 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:45:01 +0200] "GET /video.html HTTP/1.1" 200 850 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
+127.0.0.1 - - [23/Jun/2022:20:45:02 +0200] "GET /video.html HTTP/1.1" 200 850 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
+127.0.0.1 - - [23/Jun/2022:20:45:02 +0200] "GET /video.html HTTP/1.1" 200 850 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
+127.0.0.1 - - [23/Jun/2022:20:46:10 +0200] "GET /video.html HTTP/1.1" 200 857 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.0.11014 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:46:10 +0200] "GET /video.html HTTP/1.1" 200 857 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:48:11 +0200] "GET /video.html HTTP/1.1" 200 857 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
+127.0.0.1 - - [23/Jun/2022:20:49:01 +0200] "GET /video.html HTTP/1.1" 200 869 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
+127.0.0.1 - - [23/Jun/2022:20:49:02 +0200] "GET /video.html HTTP/1.1" 200 869 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
+127.0.0.1 - - [23/Jun/2022:20:49:29 +0200] "GET /video.html HTTP/1.1" 200 885 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:20:49:37 +0200] "GET /video.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:20:49:44 +0200] "GET /video.html HTTP/1.1" 200 885 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:49:52 +0200] "GET /video.html HTTP/1.1" 200 885 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.0.11014 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:50:16 +0200] "GET /video.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.0.11014 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:50:32 +0200] "GET /video.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:20:53:51 +0200] "GET /video.html HTTP/1.1" 200 885 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:20:53:59 +0200] "GET /video.html HTTP/1.1" 200 885 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:54:21 +0200] "GET /video.html HTTP/1.1" 200 885 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:54:29 +0200] "GET /video.html HTTP/1.1" 200 885 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:20:55:08 +0200] "GET /video.html HTTP/1.1" 200 982 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:20:55:09 +0200] "GET /video.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+127.0.0.1 - - [23/Jun/2022:20:55:13 +0200] "GET /video.html HTTP/1.1" 200 982 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2"
+127.0.0.1 - - [23/Jun/2022:20:55:28 +0200] "GET /video.html HTTP/1.1" 200 982 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:55:40 +0200] "GET /video.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36"
+127.0.0.1 - - [23/Jun/2022:20:56:46 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 132 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:20:56:46 +0200] "GET /hls1/test-110.ts HTTP/1.1" 200 5779684 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:20:56:46 +0200] "GET /hls1/test-111.ts HTTP/1.1" 200 6712728 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 [23/Jun/2022:20:57:32 +0200] PUBLISH "hls" "test" "" - 350667296 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (20m 0s)
+127.0.0.1 - - [23/Jun/2022:21:00:07 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 132 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:21:00:07 +0200] "GET /hls1/test-120.ts HTTP/1.1" 200 5866540 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:21:00:07 +0200] "GET /hls1/test-121.ts HTTP/1.1" 200 5711628 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:21:00:26 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 132 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:21:00:27 +0200] "GET /hls1/test-122.ts HTTP/1.1" 200 5834768 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:21:00:44 +0200] "GET /hls1/test.m3u8 HTTP/1.1" 206 132 "-" "VLC/3.0.16 LibVLC/3.0.16"
+127.0.0.1 - - [23/Jun/2022:21:00:45 +0200] "GET /hls1/test-123.ts HTTP/1.1" 200 5682864 "-" "VLC/3.0.16 LibVLC/3.0.16"
+192.168.1.222 [19/Jul/2023:03:12:38 +0200] PLAY "hls" "test" "" - 370 250758 "" "LNX 9,0,124,2" (10s)
+192.168.1.57 [19/Jul/2023:03:44:54 +0200] PLAY "hls" "test" "" - 378 43983 "" "LNX 9,0,124,2" (2s)
+192.168.1.57 [19/Jul/2023:03:44:56 +0200] PLAY "hls" "test" "" - 378 436 "" "LNX 9,0,124,2" (3s)
+192.168.1.57 [19/Jul/2023:03:44:57 +0200] PLAY "hls" "test" "" - 378 436 "" "LNX 9,0,124,2" (0s)
+192.168.1.57 [19/Jul/2023:03:45:08 +0200] PLAY "hls" "test" "" - 370 86122 "" "LNX 9,0,124,2" (4s)
+192.168.1.57 [19/Jul/2023:03:58:26 +0200] PLAY "hls" "test" "" - 384 454 "" "LNX 9,0,124,2" (2m 24s)
+192.168.1.57 [19/Jul/2023:04:41:52 +0200] PLAY "hls" "test" "" - 411 207278 "" "LNX 9,0,124,2" (1m 5s)
+192.168.1.57 [19/Jul/2023:04:42:15 +0200] PLAY "hls" "test" "" - 370 454 "" "LNX 9,0,124,2" (14s)
+192.168.1.57 [19/Jul/2023:04:43:27 +0200] PLAY "hls" "test" "" - 370 454 "" "LNX 9,0,124,2" (49s)
+192.168.1.57 [19/Jul/2023:04:44:00 +0200] PLAY "hls" "test" "" - 370 436 "" "LNX 9,0,124,2" (15s)
+192.168.1.222 [19/Jul/2023:04:45:14 +0200] PUBLISH "hls" "test" "" - 64926497 565 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1h 34m 5s)
+192.168.1.57 [19/Jul/2023:04:48:30 +0200] PLAY "hls" "test" "" - 411 1501469 "" "LNX 9,0,124,2" (47s)
+192.168.1.57 [19/Jul/2023:04:52:55 +0200] PLAY "hls" "test" "" - 370 436 "" "LNX 9,0,124,2" (57s)
+192.168.1.57 [19/Jul/2023:04:54:59 +0200] PLAY "hls" "test" "" - 431 6077036 "" "LNX 9,0,124,2" (1m 39s)
+192.168.1.222 [19/Jul/2023:04:55:31 +0200] PUBLISH "hls" "test" "" - 13657443 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (3m 33s)
+192.168.1.57 [19/Jul/2023:05:02:21 +0200] PLAY "hls" "test" "" - 370 436 "" "LNX 9,0,124,2" (22s)
+192.168.1.222 [19/Jul/2023:05:02:47 +0200] PUBLISH "hls" "test" "" - 3703734 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1m 9s)
+192.168.1.57 [19/Jul/2023:05:06:50 +0200] PLAY "hls" "test" "" - 431 7390504 "" "LNX 9,0,124,2" (1m 1s)
+192.168.1.57 [19/Jul/2023:05:07:19 +0200] PLAY "hls" "test" "" - 370 454 "" "LNX 9,0,124,2" (25s)
+192.168.1.57 [19/Jul/2023:05:07:48 +0200] PLAY "hls" "test" "" - 370 454 "" "LNX 9,0,124,2" (16s)
+192.168.1.222 [19/Jul/2023:05:09:37 +0200] PUBLISH "hls" "test" "" - 9679083 547 "" "FMLE/3.0 (compatible; FMSc/1.0)" (4m 11s)
+192.168.1.57 [19/Jul/2023:05:10:01 +0200] PLAY "hls" "test" "" - 370 472 "" "LNX 9,0,124,2" (52s)
+192.168.1.222 [15/Sep/2023:01:08:42 +0200] PUBLISH "hls" "test" "" - 7320095 547 "" "FMLE/3.0 (compatible; FMSc/1.0)" (2m 43s)
+192.168.1.57 [15/Sep/2023:01:10:30 +0200] PLAY "hls" "test" "" - 371 490 "" "LNX 9,0,124,2" (3m 3s)
+192.168.1.57 [15/Sep/2023:01:11:09 +0200] PLAY "hls" "test" "" - 371 436 "" "LNX 9,0,124,2" (1m 25s)
+192.168.1.222 [15/Sep/2023:02:25:24 +0200] PUBLISH "hls" "test" "" - 20081283 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (5m 52s)
+192.168.1.57 [15/Sep/2023:02:26:53 +0200] PLAY "hls" "test" "" - 482 16853473 "" "LNX 9,0,124,2" (6m 46s)
+192.168.1.222 [15/Sep/2023:02:40:03 +0200] PUBLISH "hls" "test" "" - 3651832 565 "" "FMLE/3.0 (compatible; FMSc/1.0)" (19m 56s)
+192.168.1.57 [15/Sep/2023:02:41:40 +0200] PLAY "hls" "test" "" - 442 2618837 "" "LNX 9,0,124,2" (3m 27s)
+192.168.1.57 [15/Sep/2023:02:43:32 +0200] PLAY "hls" "test" "" - 371 436 "" "LNX 9,0,124,2" (59s)
+192.168.1.222 [15/Sep/2023:02:45:21 +0200] PUBLISH "hls" "test" "" - 17295654 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (4m 54s)
+192.168.1.57 [15/Sep/2023:02:47:11 +0200] PLAY "hls" "test" "" - 456 11255987 "" "LNX 9,0,124,2" (4m 8s)
+192.168.1.57 [15/Sep/2023:08:34:58 +0200] PLAY "hls" "test" "" - 4746 1409812170 "" "LNX 9,0,124,2" (5h 47m 39s)
+192.168.1.222 [15/Sep/2023:09:10:08 +0200] PUBLISH "hls" "test" "" - 1555459029 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (6h 24m 25s)
+192.168.1.57 [15/Sep/2023:13:18:20 +0200] PLAY "hls" "test" "" - 412 296379 "" "LNX 9,0,124,2" (12s)
+192.168.1.57 [15/Sep/2023:16:39:36 +0200] PLAY "hls" "test" "" - 3034 844808330 "" "LNX 9,0,124,2" (3h 21m 4s)
+192.168.1.222 [15/Sep/2023:21:33:11 +0200] PUBLISH "hls" "test" "" - 1857719646 547 "" "FMLE/3.0 (compatible; FMSc/1.0)" (18h 45m 51s)
+192.168.1.57 [28/Sep/2023:21:30:28 +0200] PLAY "hls" "test" "" - 1586 399269741 "" "LNX 9,0,124,2" (1h 46m 12s)
+192.168.1.222 [28/Sep/2023:21:45:39 +0200] PUBLISH "hls" "test" "" - 474340782 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (2h 1m 40s)
+192.168.1.57 [28/Sep/2023:23:54:52 +0200] PLAY "hls" "test" "" - 371 436 "" "LNX 9,0,124,2" (2s)
+192.168.1.57 [09/Oct/2023:23:52:18 +0200] PLAY "hls" "test" "" - 1302 289893286 "" "LNX 9,0,124,2" (1h 2m 16s)
+192.168.1.222 [10/Oct/2023:01:34:19 +0200] PUBLISH "hls" "test" "" - 788615311 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (2h 45m 12s)
+192.168.1.57 [15/Oct/2023:15:07:55 +0200] PLAY "hls" "test" "" - 1642 386517827 "" "LNX 9,0,124,2" (1h 22m 37s)
+192.168.1.222 [15/Oct/2023:16:59:51 +0200] PUBLISH "hls" "test" "" - 795136861 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (3h 15m 1s)
+192.168.1.222 [25/Oct/2023:20:25:24 +0200] PUBLISH "hls" "test" "" - 761160493 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (2h 59m 22s)
+192.168.1.222 [26/Oct/2023:14:02:08 +0200] PUBLISH "hls" "test" "" - 11334383 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (3m 26s)
+192.168.1.222 [26/Oct/2023:14:05:09 +0200] PUBLISH "hls" "test" "" - 7342027 427 "" "FMLE/3.0 (compatible; FMSc/1.0)" (2m 23s)
+192.168.1.222 [26/Oct/2023:14:14:02 +0200] PUBLISH "hls" "test" "" - 14956746 547 "" "FMLE/3.0 (compatible; FMSc/1.0)" (3m 30s)
+192.168.1.222 [26/Oct/2023:14:15:22 +0200] PUBLISH "hls" "test" "" - 129598 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (7s)
+192.168.1.57 [26/Oct/2023:14:18:19 +0200] PLAY "hls" "test" "" - 371 436 "" "LNX 9,0,124,2" (29s)
+192.168.1.222 [26/Oct/2023:14:19:03 +0200] PUBLISH "hls" "test" "" - 5347007 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1m 13s)
+192.168.1.57 [26/Oct/2023:14:20:54 +0200] PLAY "hls" "test" "" - 432 6985396 "" "LNX 9,0,124,2" (2m 29s)
+192.168.1.57 [26/Oct/2023:14:22:27 +0200] PLAY "hls" "test" "" - 371 436 "" "LNX 9,0,124,2" (1m 50s)
+192.168.1.57 [26/Oct/2023:14:23:17 +0200] PLAY "hls" "test" "" - 371 436 "" "LNX 9,0,124,2" (43s)
+192.168.1.222 [26/Oct/2023:14:23:55 +0200] PUBLISH "hls" "test" "" - 15318402 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (4m 27s)
+192.168.1.57 [26/Oct/2023:14:24:11 +0200] PLAY "hls" "test" "" - 371 436 "" "LNX 9,0,124,2" (16s)
+192.168.1.222 [26/Oct/2023:14:31:35 +0200] PUBLISH "hls" "test" "" - 42360686 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (7m 40s)
+192.168.1.57 [26/Oct/2023:14:31:49 +0200] PLAY "hls" "test" "" - 544 41344912 "" "LNX 9,0,124,2" (7m 33s)
+192.168.1.222 [26/Oct/2023:14:33:13 +0200] PUBLISH "hls" "test" "" - 10334909 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1m 27s)
+192.168.1.222 [26/Oct/2023:14:33:54 +0200] PUBLISH "hls" "test" "" - 1344023 409 "" "FMLE/3.0 (compatible; FMSc/1.0)" (12s)
+192.168.1.57 [26/Oct/2023:14:35:31 +0200] PLAY "hls" "test" "" - 474 10272265 "" "LNX 9,0,124,2" (3m 34s)
+192.168.1.57 [26/Oct/2023:16:07:32 +0200] PLAY "hls" "test" "" - 2449 649125484 "" "LNX 9,0,124,2" (1h 31m 48s)
+192.168.1.222 [26/Oct/2023:16:27:27 +0200] PUBLISH "hls" "test" "" - 796940682 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1h 52m 49s)
+192.168.1.57 [26/Oct/2023:16:50:46 +0200] PLAY "hls" "test" "" - 371 436 "" "LNX 9,0,124,2" (6s)
+192.168.1.57 [30/Oct/2023:02:54:41 +0100] PLAY "hls" "test" "" - 1293 284699917 "" "LNX 9,0,124,2" (40m 13s)
+192.168.1.222 [30/Oct/2023:04:09:39 +0100] PUBLISH "hls" "test" "" - 842948116 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1h 56m 1s)
+192.168.1.57 [31/Oct/2023:11:50:12 +0100] PLAY "hls" "test" "" - 1101 217273859 "" "LNX 9,0,124,2" (31m 37s)
+192.168.1.222 [31/Oct/2023:12:53:50 +0100] PUBLISH "hls" "test" "" - 641771562 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1h 37m 32s)
+192.168.1.57 [02/Nov/2023:22:00:30 +0100] PLAY "hls" "test" "" - 639 97549117 "" "LNX 9,0,124,2" (15m 8s)
+192.168.1.222 [02/Nov/2023:22:01:54 +0100] PUBLISH "hls" "test" "" - 115414860 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (17m 40s)
+192.168.1.57 [03/Nov/2023:23:03:20 +0100] PLAY "hls" "test" "" - 1206 253796089 "" "LNX 9,0,124,2" (35m 57s)
+192.168.1.222 [03/Nov/2023:23:03:27 +0100] PUBLISH "hls" "test" "" - 264125340 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (36m 11s)
+192.168.1.57 [11/Nov/2023:12:45:56 +0100] PLAY "hls" "test" "" - 1871 485480709 "" "LNX 9,0,124,2" (1h 11m 22s)
+192.168.1.222 [11/Nov/2023:15:19:44 +0100] PUBLISH "hls" "test" "" - 1463101414 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (3h 44m 51s)
+192.168.1.57 [11/Nov/2023:19:14:45 +0100] PLAY "hls" "test" "" - 371 454 "" "LNX 9,0,124,2" (2m 0s)
+192.168.1.57 [12/Nov/2023:16:41:13 +0100] PLAY "hls" "test" "" - 371 436 "" "LNX 9,0,124,2" (7s)
+192.168.1.222 [19/Nov/2023:00:39:41 +0100] PUBLISH "hls" "test" "" - 1119066 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (11s)
+192.168.1.57 [20/Nov/2023:17:12:58 +0100] PLAY "hls" "test" "" - 1755 431009002 "" "LNX 9,0,124,2" (1h 5m 8s)
+192.168.1.222 [20/Nov/2023:17:28:12 +0100] PUBLISH "hls" "test" "" - 550843902 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1h 21m 34s)
+192.168.1.57 [20/Nov/2023:18:08:37 +0100] PLAY "hls" "test" "" - 371 436 "" "LNX 9,0,124,2" (48s)
+192.168.1.57 [20/Nov/2023:18:09:33 +0100] PLAY "hls" "test" "" - 371 436 "" "LNX 9,0,124,2" (41s)
+192.168.1.222 [20/Nov/2023:18:09:53 +0100] PUBLISH "hls" "test" "" - 14344011 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (2m 27s)
+192.168.1.57 [20/Nov/2023:18:33:03 +0100] PLAY "hls" "test" "" - 850 162062104 "" "LNX 9,0,124,2" (22m 44s)
+192.168.1.222 [20/Nov/2023:18:33:13 +0100] PUBLISH "hls" "test" "" - 167767744 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (23m 12s)
+192.168.1.57 [20/Nov/2023:18:48:17 +0100] PLAY "hls" "test" "" - 371 454 "" "LNX 9,0,124,2" (2m 0s)
+192.168.1.57 [21/Nov/2023:19:22:05 +0100] PLAY "hls" "test" "" - 371 436 "" "LNX 9,0,124,2" (3s)
+192.168.1.57 [21/Nov/2023:20:07:55 +0100] PLAY "hls" "test" "" - 1310 312205172 "" "LNX 9,0,124,2" (45m 16s)
+192.168.1.57 [21/Nov/2023:20:37:21 +0100] PLAY "hls" "test" "" - 964 190420015 "" "LNX 9,0,124,2" (27m 25s)
+192.168.1.222 [21/Nov/2023:20:47:47 +0100] PUBLISH "hls" "test" "" - 602731686 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1h 25m 19s)
+192.168.1.57 [22/Nov/2023:14:14:00 +0100] PLAY "hls" "test" "" - 412 615232 "" "LNX 9,0,124,2" (10s)
+192.168.1.57 [22/Nov/2023:14:23:44 +0100] PLAY "hls" "test" "" - 590 68569994 "" "LNX 9,0,124,2" (9m 36s)
+192.168.1.57 [22/Nov/2023:15:02:53 +0100] PLAY "hls" "test" "" - 1193 250911734 "" "LNX 9,0,124,2" (39m 4s)
+192.168.1.57 [22/Nov/2023:15:38:47 +0100] PLAY "hls" "test" "" - 1075 233188267 "" "LNX 9,0,124,2" (35m 27s)
+192.168.1.222 [22/Nov/2023:15:40:19 +0100] PUBLISH "hls" "test" "" - 601163834 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1h 27m 25s)
+192.168.1.97 [04/Dec/2023:12:05:28 +0100] PUBLISH "hls" "test1" "" - 255302742 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (9m 44s)
+192.168.1.222 [04/Dec/2023:12:06:40 +0100] PLAY "hls" "test1" "" - 836 157970479 "" "LNX 9,0,124,2" (7m 15s)
+192.168.1.222 [04/Dec/2023:12:06:56 +0100] PLAY "hls" "test1" "" - 414 542 "" "LNX 9,0,124,2" (37s)
+192.168.1.97 [04/Dec/2023:12:38:21 +0100] PUBLISH "hls" "test1" "" - 853070159 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (32m 10s)
+192.168.1.222 [04/Dec/2023:12:38:57 +0100] PLAY "hls" "test1" "" - 2484 831924485 "" "LNX 9,0,124,2" (31m 58s)
+192.168.1.222 [04/Dec/2023:12:39:13 +0100] PLAY "hls" "test1" "" - 414 542 "" "LNX 9,0,124,2" (33s)
+192.168.1.97 [04/Dec/2023:12:40:36 +0100] PUBLISH "hls" "test1" "" - 5759464 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1m 56s)
+192.168.1.222 [04/Dec/2023:12:49:51 +0100] PLAY "hls" "test1" "" - 496 4376119 "" "LNX 9,0,124,2" (10m 35s)
+192.168.1.222 [04/Dec/2023:18:00:35 +0100] PLAY "hls" "test1" "" - 384 3981434 "" "LNX 9,0,124,2" (31s)
+192.168.1.97 [04/Dec/2023:18:01:20 +0100] PLAY "hls" "test1" "" - 414 542 "" "LNX 9,0,124,2" (18s)
+192.168.1.97 [04/Dec/2023:18:02:51 +0100] PLAY "hls" "test1" "" - 416 10859989 "" "LNX 9,0,124,2" (1m 49s)
+192.168.1.97 [04/Dec/2023:18:04:08 +0100] PLAY "hls" "test1" "" - 372 680629 "" "LNX 9,0,124,2" (1m 6s)
+192.168.1.97 [04/Dec/2023:18:34:55 +0100] PLAY "hls" "test1" "" - 1005 199731619 "" "LNX 9,0,124,2" (25m 41s)
+192.168.1.97 [04/Dec/2023:18:36:26 +0100] PLAY "hls" "test1" "" - 414 542 "" "LNX 9,0,124,2" (2m 1s)
+192.168.1.97 [04/Dec/2023:19:45:09 +0100] PLAY "hls" "test1" "" - 2077 533962848 "" "LNX 9,0,124,2" (1h 8m 42s)
+192.168.1.97 [04/Dec/2023:19:46:43 +0100] PLAY "hls" "test1" "" - 372 2436820 "" "LNX 9,0,124,2" (1m 23s)
+192.168.1.222 [04/Dec/2023:20:36:50 +0100] PLAY "hls" "test1" "" - 372 884051 "" "LNX 9,0,124,2" (8s)
+127.0.0.1 [04/Dec/2023:22:47:55 +0100] PUBLISH "hls" "test1" "" - 2079549620 547 "" "FMLE/3.0 (compatible; FMSc/1.0)" (10h 8m 39s)
+192.168.1.97 [04/Dec/2023:22:58:58 +0100] PLAY "hls" "test1" "" - 456 632 "" "LNX 9,0,124,2" (6m 11s)
+192.168.1.97 [04/Dec/2023:23:35:39 +0100] PLAY "hls" "test1" "" - 666 1172 "" "LNX 9,0,124,2" (36m 36s)
+192.168.1.97 [05/Dec/2023:00:30:00 +0100] PLAY "hls" "test1" "" - 778 1460 "" "LNX 9,0,124,2" (52m 23s)

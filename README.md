@@ -72,6 +72,4 @@ The you can stream to it with OBS Studio https://obsproject.com
 
 To make this chat aviable between mobiles, you can use tor server. 
 
-Install Termux, and then the servers : apache2, mysqld, node, tor
-
-Configure server with ChatGPT and talk with your friends :)
+Install Termux, and then the servers : apache2, mysqld, node, tor, and talk with your friends :)

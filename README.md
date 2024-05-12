@@ -155,8 +155,7 @@ if ! pgrep -x "$processus" > /dev/null; then
   termux-x11 :1 -xstartup "dbus-launch --exit-with-session xfce4-session" &
 
 #else
-  # Le processus est en cours d'exécution
-  #echo "Le processus $processus est en cours d'exécution."
+  #echo "The processs $processus is running."
 fi
 
 ```

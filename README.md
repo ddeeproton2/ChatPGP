@@ -78,8 +78,8 @@ Install Termux on Android, and then the servers : apache2, mysqld, node, tor, an
 pkg update
 pkg install proot-distro
 proot-distro list
-proot-distro install ubuntu
-proot-distro login ubuntu
+proot-distro install ubuntu-lts
+proot-distro login ubuntu-lts
 apt update -y && apt upgrade -y && apt install xfce4
 service dbus start
 termux-x11 :1 -xstartup "dbus-launch --exit-with-session xcfe4-session"
@@ -88,4 +88,10 @@ echo Start or install now "Termux:X11"
 ```
 This command will download and install Ubuntu on your phone
 
-Then you can go into your destktop with "Termux:X11" Android Application if you want to install apache2, mysqld, node, tor, with "apt install NameHere" ...
+Then you can go into your destktop with "Termux:X11" Android Application if you want to install apache2, mysqld, node, tor, with "apt install ..."
+
+or continue with command prompts by login into your Ubuntu session with 
+
+```bash
+proot-distro login ubuntu-lts
+```

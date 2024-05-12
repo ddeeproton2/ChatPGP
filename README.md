@@ -48,3 +48,13 @@ Optional fonctionality
 The stream server is aviable in the folder "nginx-1.7.11.3-Gryphon-RTMP-Server"
 
 The you can stream to it with OBS Studio https://obsproject.com
+
+______________
+
+For mobile phones
+
+To make this chat aviable betwwen mobiles, you can use tor server. 
+
+Install Termux, and then the servers : apache2, mysqld, node, tor
+
+and talk with your friends :)

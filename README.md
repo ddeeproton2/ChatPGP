@@ -59,7 +59,7 @@ The merging of NodeJS and PHP MySQL is done with JQuery in "chatPGP-PHP-MySQL/js
 
 # Optional fonctionality 
 
-- A vocal message is aviable. But, nothing is crypted there with PGP. Nothing to install. All is ready with the chat.
+- A vocal message is aviable. But not protected with PGP. 
 
 - You can add your video stream, on the top of the chat, if you uncomment and configure the tag <video ...></video> in "index.php" to use your stream server.
 

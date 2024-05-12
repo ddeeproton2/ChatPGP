@@ -68,9 +68,9 @@ The stream server is aviable in the folder "nginx-1.7.11.3-Gryphon-RTMP-Server"
 Then you can stream to it with OBS Studio https://obsproject.com
 
 
-# For mobile phones
+# For Android
 
-## install Termux
+## Android - install Termux
 
 To make this chat aviable between mobiles, you can use tor server. 
 
@@ -92,7 +92,7 @@ To start Ubuntu on the next restart of termux
 proot-distro login ubuntu-lts
 ```
 
-## install Termux:X11
+## Android - install Termux:X11
 
 To install a desktop
 

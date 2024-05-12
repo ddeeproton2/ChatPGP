@@ -72,7 +72,7 @@ Then you can stream to it with OBS Studio https://obsproject.com
 
 To make this chat aviable between mobiles, you can use tor server. 
 
-Install Termux, and then the servers : apache2, mysqld, node, tor, and talk with your friends :)
+Install Termux on Android, and then the servers : apache2, mysqld, node, tor, and talk with your friends :)
 
 ```bash
 pkg update
@@ -88,4 +88,4 @@ echo Start or install now "Termux:X11"
 ```
 This command will download and install ubuntu on your phone
 
-Then you can go into your destktop with "Termux:X11"
+Then you can go into your destktop with "Termux:X11" Android Application

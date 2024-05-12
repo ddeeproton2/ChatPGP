@@ -108,7 +108,7 @@ and connect to the desktop with "termux-x11" Android application.
 
 and then ask to ChatGPT or other AI how to install apache2 (with SSL), mysqld, node and tor :)
 
-## Auto start desktop with Termux, to connect after on Termuux:X11
+## Android - Auto start desktop with Termux, and Termux:X11 applications
 
 if you want to start the desktop with Termux.
 

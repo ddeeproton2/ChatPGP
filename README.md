@@ -159,7 +159,7 @@ if ! pgrep -x "$processus" > /dev/null; then
   #echo "Le processus $processus est en cours d'exécution."
 fi
 
-```bash
+```
 
 Control + S to save
 F2 to exit

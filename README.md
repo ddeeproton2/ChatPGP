@@ -90,7 +90,7 @@ This command will download and install Ubuntu on your phone
 
 Then you can go into your destktop with "Termux:X11" Android Application if you want to install apache2, mysqld, node, tor, with "apt install ..."
 
-or stop here to continue only with command prompts
+or stop here to continue only with command prompts without desktop
 
 ```bash
 proot-distro login ubuntu-lts

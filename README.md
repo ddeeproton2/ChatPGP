@@ -53,7 +53,7 @@ ______________
 
 For mobile phones
 
-To make this chat aviable betwwen mobiles, you can use tor server. 
+To make this chat aviable between mobiles, you can use tor server. 
 
 Install Termux, and then the servers : apache2, mysqld, node, tor
 

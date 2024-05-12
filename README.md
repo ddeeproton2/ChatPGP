@@ -70,6 +70,8 @@ Then you can stream to it with OBS Studio https://obsproject.com
 
 # For mobile phones
 
+## install Termux
+
 To make this chat aviable between mobiles, you can use tor server. 
 
 Install Termux on Android, and then the servers : apache2, mysqld, node, tor, and talk with your friends :)
@@ -90,6 +92,8 @@ To start Ubuntu on the next restart of termux
 proot-distro login ubuntu-lts
 ```
 
+## install Termux:X11
+
 To install a desktop
 
 ```bash
@@ -100,5 +104,64 @@ termux-x11 :1 -xstartup "dbus-launch --exit-with-session xcfe4-session"
 
 echo Start or install now "Termux:X11"
 ```
+and connect to the desktop with "termux-x11" Android application.
 
 and then ask to ChatGPT or other AI how to install apache2 (with SSL), mysqld, node and tor :)
+
+## Auto start desktop with Termux, to connect after on Termuux:X11
+
+if you want to start the desktop with Termux.
+
+exit termux with exit if you was connected
+
+Edit your .bashrc 
+
+```bash
+nano .bashrc
+```
+
+Add this at the end
+
+```bash
+proot-distro login ubuntu-lts
+```
+
+Control + S to save
+F2 to exit
+
+Log into Ubuntu again
+
+```bash
+proot-distro login ubuntu-lts
+```
+
+Edit the .bashrc of Ubuntu
+```bash
+nano .bashrc
+```
+
+Add this at the end 
+```bash
+
+processus="xfce4-session"
+# if the desktop is not running
+if ! pgrep -x "$processus" > /dev/null; then
+
+  # start audio. Comment this if no audio needed for gain performances
+  pulseaudio --start     --load="module-native-protocol-tcp auth-ip-acl=127.0.0.1 auth-anonymous=1"     --exit-idle-time=-1
+
+  service dbus start
+  rm -rf /tmp/.X*
+  termux-x11 :1 -xstartup "dbus-launch --exit-with-session xfce4-session" &
+
+#else
+  # Le processus est en cours d'exécution
+  #echo "Le processus $processus est en cours d'exécution."
+fi
+
+```bash
+
+Control + S to save
+F2 to exit
+
+And then restart to test

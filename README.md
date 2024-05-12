@@ -14,9 +14,26 @@ install :
 
 Configure NodeJS Client in "chatPGP-PHP-MySQL/js/CHAT.js"
 
+```javascript
+CHATPGP.socket = io("//:24443");
+```
+
 Configure the NodeJS server in "chatPGP-NodeJS/!start.bat"
 
+```bash
+node app.js --https-port 13443 --http-port 13080 --ssl-key SSL/private-key.pem --ssl-cert SSL/certificate.pem --ssl-ca SSL/ca.pem
+```
+
 Configure MySQL connexion to the server in "chatPGP-PHP-MySQL/ajax.php"
+
+```php
+$config = array(
+	'mysql_address' => '127.0.0.1:53306',
+	'mysql_username' => 'root',
+	'mysql_password' => 'root',
+	'mysql_database' => 'tchat1'
+);
+```
 
 Create a MySQL Database from your phpmyadmin, with the name specified into "chatPGP-PHP-MySQL/ajax.php" (default "tchat1")
 

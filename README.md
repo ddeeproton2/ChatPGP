@@ -15,7 +15,7 @@ Configure the NodeJS server in "chatPGP-NodeJS/!start.bat"
 
 Configure MySQL in "chatPGP-PHP-MySQL/ajax.php"
 
-Create a Database, with the name specified into "chatPGP-PHP-MySQL/ajax.php" (default "tchat1")
+Create a MySQL Database, with the name specified into "chatPGP-PHP-MySQL/ajax.php" (default "tchat1")
 ___________________
 
 How it works

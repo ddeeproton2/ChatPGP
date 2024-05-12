@@ -81,7 +81,7 @@ pkg install proot-distro
 proot-distro list
 proot-distro install ubuntu-lts
 proot-distro login ubuntu-lts
-apt update -y && apt upgrade -y && 
+apt update -y && apt upgrade -y
 ```
 
 To start Ubuntu on the next restart of termux

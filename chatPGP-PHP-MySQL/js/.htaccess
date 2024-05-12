@@ -1,0 +1,7 @@
+AddType application/x-web-app-manifest+json .webapp
+
+AddType video/ogg .ogv
+AddType video/mp4 .mp4
+AddType video/webm .webm
+
+Header set Access-Control-Allow-Origin "*"

@@ -1,0 +1,49 @@
+body {padding:0;margin:0;background-color:#aaa;background-image:linear-gradient(0deg, #aaa, #000);background-repeat:no-repeat;}
+
+.clr {clear:both;}
+
+.logo {margin:0 auto -4px auto;width:90%;min-width:900px;}
+.logo img {width:100%;}
+
+.content {margin:0 auto 20px auto;width:90%;min-width:900px;padding-bottom:20px;border-radius:0 0 7px 7px; background-color:#fff;background-image:linear-gradient(270deg, #888, #fff);}
+.left {float:left;width:26%;padding:0 2%;text-align:center;}
+.right {float:left;width:66%;padding:0 2%;}
+
+
+.cc_player{margin:0 auto;padding-top:10px;}
+
+.radiolink {margin:0 auto;padding-top:20px;width:180px;}
+.radiolink ul {list-style:none;margin:0;padding:0;}
+.radiolink ul li {float:left;padding-left:38px;}
+.radiolink ul li:first-child {padding-left:0;}
+.radiolink ul li a {text-decoration:none;}
+.radiolink ul li a img {}
+
+#nowplaying {text-align:center;padding:20px 20px 0 20px;}
+#nowplaying a {text-decoration:none;font-weight:bold;}
+
+#recenttracks {text-align:center;padding-top:10px;padding-right:10px;}
+#recenttracks h3 {text-align:left;}
+
+#youtubelive {height:235px;padding-top:18px;overflow:hidden;}
+#youtubelive iframe {width:104%;height:250px;overflow:hidden;}
+
+iframe[Attributes Style] {
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    height: 100%;
+    width: 100%;
+}
+iframe {
+  border-image-source: initial;
+  border-image-slice: initial;
+  border-image-width: initial;
+  border-image-outset: initial;
+  border-image-repeat: initial;
+}
+
+
+
+#chat {float:left;text-align:center;margin:0 auto;width:100%;}

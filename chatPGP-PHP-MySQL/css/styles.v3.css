@@ -1,0 +1,28 @@
+body {padding:0;margin:0;background-color:#aaa;background-image:linear-gradient(0deg, #aaa, #000);background-repeat:no-repeat;}
+
+.clr {clear:both;}
+
+.logo {margin:0 auto;width:900px;height:225px;}
+.logo img {width:900px;}
+
+.content {margin:0 auto;padding-bottom:20px;border-radius:0 0 7px 7px; width:900px;background-color:#fff;background-image:linear-gradient(270deg, #888, #fff);}
+.left {float:left;}
+.center {float:left;}
+.right {float:left;}
+
+
+.cc_player{margin:0 auto;padding-top:10px;width:200px;}
+
+.radiolink {margin:0 auto;padding-top:20px;width:200px;}
+.radiolink ul {list-style:none;margin:0;padding:0;}
+.radiolink ul li {float:left;padding-left:38px;}
+.radiolink ul li:first-child {padding-left:0;}
+.radiolink ul li a {text-decoration:none;}
+.radiolink ul li a img {}
+
+#nowplaying {width:200px;text-align:center;padding:20px 20px 0 20px;}
+#nowplaying a {text-decoration:none;font-weight:bold;}
+
+#recenttracks {margin:0 auto;padding-top:10px;width:200px;}
+
+#chat {margin:0 auto;padding-top:10px;width:640px;}

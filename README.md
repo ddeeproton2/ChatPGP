@@ -13,9 +13,12 @@ Configure NodeJS Client in "chatPGP-PHP-MySQL/js/CHAT.js"
 
 Configure the NodeJS server in "chatPGP-NodeJS/!start.bat"
 
-Configure MySQL in "chatPGP-PHP-MySQL/ajax.php"
+Configure MySQL connexion to the server in "chatPGP-PHP-MySQL/ajax.php"
 
-Create a MySQL Database, with the name specified into "chatPGP-PHP-MySQL/ajax.php" (default "tchat1")
+Create a MySQL Database from your phpmyadmin, with the name specified into "chatPGP-PHP-MySQL/ajax.php" (default "tchat1")
+
+Put the folder in a public folder chatPGP-PHP-MySQL and rename it as you want to request it from the webbrowser
+
 ___________________
 
 How it works ?
@@ -38,8 +41,10 @@ ________________
 
 Optional fonctionality 
 
-- A vocal message is aviable. But, nothing is crypted there with PGP.
+- A vocal message is aviable. But, nothing is crypted there with PGP. Nothing to install. All is ready with the chat.
 
 - You can add your video stream, on the top of the chat, if you uncomment and configure the tag <video ...></video> in "index.php" to use your stream server.
 
 The stream server is aviable in the folder "nginx-1.7.11.3-Gryphon-RTMP-Server"
+
+The you can stream to it with OBS Studio https://obsproject.com

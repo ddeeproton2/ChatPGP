@@ -86,3 +86,6 @@ termux-x11 :1 -xstartup "dbus-launch --exit-with-session xcfe4-session"
 
 echo Start or install now "Termux:X11"
 ```
+This command will download and install ubuntu on your phone
+
+Then you can go into your destktop with "Termux:X11"

@@ -1,9 +1,11 @@
 # ChatPGP
  Public Chat crypted with PGP. 
  
- This project is not ended. Some buttons are here, but dosen't work.
+ This project is not ended. (Some buttons are here, but dosen't work).
+ 
+________________
 
-#Installation
+# Installation
 
 - A web server "PHP" with "MySQL"
 
@@ -21,7 +23,7 @@ Put the folder in a public folder chatPGP-PHP-MySQL and rename it as you want to
 
 ___________________
 
-How it works ?
+# How it works ?
 
 All SQL tables will be created on the fly. if the database is well created.
 
@@ -39,7 +41,7 @@ The merging of NodeJS and PHP MySQL is done with JQuery in "chatPGP-PHP-MySQL/js
 
 ________________
 
-Optional fonctionality 
+# Optional fonctionality 
 
 - A vocal message is aviable. But, nothing is crypted there with PGP. Nothing to install. All is ready with the chat.
 
@@ -51,10 +53,10 @@ The you can stream to it with OBS Studio https://obsproject.com
 
 ______________
 
-For mobile phones
+# For mobile phones
 
 To make this chat aviable between mobiles, you can use tor server. 
 
 Install Termux, and then the servers : apache2, mysqld, node, tor
 
-Configure server and talk with your friends :)
+Configure server with ChatGPT and talk with your friends :)

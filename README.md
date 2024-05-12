@@ -73,3 +73,16 @@ Then you can stream to it with OBS Studio https://obsproject.com
 To make this chat aviable between mobiles, you can use tor server. 
 
 Install Termux, and then the servers : apache2, mysqld, node, tor, and talk with your friends :)
+
+```bash
+pkg update
+pkg install proot-distro
+proot-distro list
+proot-distro install ubuntu
+proot-distro login ubuntu
+apt update -y && apt upgrade -y && apt install xfce4
+service dbus start
+termux-x11 :1 -xstartup "dbus-launch --exit-with-session xcfe4-session"
+
+echo Start or install now "Termux:X11"
+```

@@ -65,7 +65,7 @@ The merging of NodeJS and PHP MySQL is done with JQuery in "chatPGP-PHP-MySQL/js
 
 The stream server is aviable in the folder "nginx-1.7.11.3-Gryphon-RTMP-Server"
 
-The you can stream to it with OBS Studio https://obsproject.com
+Then you can stream to it with OBS Studio https://obsproject.com
 
 
 # For mobile phones

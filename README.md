@@ -38,7 +38,7 @@ $config = array(
 
 Create a MySQL Database from your phpmyadmin, with the name specified into "chatPGP-PHP-MySQL/ajax.php" (default "tchat1")
 
-Put the folder "chatPGP-PHP-MySQL" in a public folder and rename it as you want to request it from the webbrowser
+Put the folder "chatPGP-PHP-MySQL" in a public folder and rename it as you want or put the content in the root www :)
 
 # How it works ?
 
